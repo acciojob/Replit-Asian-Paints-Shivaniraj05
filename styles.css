@@ -12,6 +12,6 @@
 #change_button{
 	
 }
-div#3.grid-item{
-	background-color: red;
+#3.grid-item{
+	background-color: rgb(255, 0, 0);
 }
